@@ -108,6 +108,7 @@ public class WeatherPictureTool {
             return R.mipmap.yin_shou;
     }
 
+
     /**
      *  读取本地文件   assets中的文件
      * @param context
