@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "msg": "OK",
+  "data": {
+    "xx": "5/0",
+    "cyzs": "冷； 建议着棉衣加羊毛衫等冬季服装。",
+    "dqfd": "西南风 2级",
+    "dqtq": "多云",
+    "xdsd": "19%",
+    "kqzs": "中； 易感人群应适当减少室外活动。",
+    "gmzs": "少发； 无明显降温，感冒机率较低。",
+    "day_weather": {
+      "temp": "3℃",
+      "city": "101010100",
+      "cityname": "北京",
+      "tempn": "-6℃",
+      "weather": "晴间多云转晴",
+      "ws": "3级",
+      "wd": "西风转北风"
+    },
+    "pm25": "32",
+    "dqwd": "2",
+    "tow_weather": {
+      "ff": "西南风",
+      "fg": "3级",
+      "fh": "3级",
+      "fi": "1/6",
+      "fj": "周六",
+      "fk": "良",
+      "fl": "79",
+      "fm": "83.0",
+      "fn": "72.6",
+      "fa": "多云",
+      "hdurl": "http://img.wanzhao.com/group2/M00/07/A7/wKgBzVpN8PyAdtdLAAAHBNzxMiE9311528",
+      "fb": "阴",
+      "fc": "2",
+      "fd": "-4",
+      "fe": "东北风"
+    },
+    "zwxzs": "最弱； 辐射弱，涂擦SPF8-12防晒护肤品。",
+    "hdurl": "http://img.wanzhao.com/group2/M00/07/A7/wKgBzVpN8PyAdtdLAAAHBNzxMiE9311528",
+    "xczs": "较适宜； 无雨且风力较小，易保持清洁度。",
+    "ydzs": "较易波动； 血糖较易波动，注意监测。",
+    "rq": "01月05日(星期五)"
+  }
+}
